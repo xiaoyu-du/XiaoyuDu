@@ -17,7 +17,7 @@ public class FreshBox {
     /**
      *constructor
      */
-    public FreshBox () {
+    public FreshBox () { //comment
         
     }
     
